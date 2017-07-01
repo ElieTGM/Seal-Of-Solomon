@@ -6,3 +6,5 @@ The Seal Of Solomon (more information on it here: https://en.wikipedia.org/wiki/
 
 ### How the heck are you going to recreate this in Minecraft?
 You can check the development by checking the git updates.
+
+[IMG] https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_Solomon_%28Simple_Version%29.svg/1024px-Seal_of_Solomon_%28Simple_Version%29.svg.png [/IMG]
